@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gmail-react/static/css/main.0eb9dbaa.css",
-    "main.js": "/gmail-react/static/js/main.a414d595.js",
+    "main.js": "/gmail-react/static/js/main.72767ecb.js",
     "static/media/Prakash_DPPNG.png": "/gmail-react/static/media/Prakash_DPPNG.d6b1644b5439255b82da.png",
     "static/media/proPlaceholder.jpg": "/gmail-react/static/media/proPlaceholder.77d7ec1d157e8c495aa1.jpg",
     "static/media/Gmail-Logo.png": "/gmail-react/static/media/Gmail-Logo.491b662595dc95ef157a.png",
     "index.html": "/gmail-react/index.html",
     "main.0eb9dbaa.css.map": "/gmail-react/static/css/main.0eb9dbaa.css.map",
-    "main.a414d595.js.map": "/gmail-react/static/js/main.a414d595.js.map"
+    "main.72767ecb.js.map": "/gmail-react/static/js/main.72767ecb.js.map"
   },
   "entrypoints": [
     "static/css/main.0eb9dbaa.css",
-    "static/js/main.a414d595.js"
+    "static/js/main.72767ecb.js"
   ]
 }
